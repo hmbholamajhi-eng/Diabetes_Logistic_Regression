@@ -34,4 +34,4 @@ The project uses the **Pima Indians Diabetes Database**.
 Dataset file:
 
 ```text
-diabetes.csv
+diabetes_dataset.csv
